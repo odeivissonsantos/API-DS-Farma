@@ -16,7 +16,7 @@ O objetivo deste documento é facilitar a compreenção do escopo do projeto e d
 • Foi utilizado a IDE Spring Tools Suite, Java 11, sistema operacional Windows 10, Maven, Lombok;
 
 ### LINKS
-Base URL da API: https://api-barber-system.herokuapp.com/
+Base URL da API: https://api-ds-farma.herokuapp.com/
 
 
 #### SOBRE O AUTOR/ORGANIZADOR
